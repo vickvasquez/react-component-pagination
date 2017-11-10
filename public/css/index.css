@@ -1,0 +1,27 @@
+.pagination {
+	display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.itemPagination {
+	cursor:pointer;
+	padding: .4rem 1rem;    
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-weight: 700;
+    margin: .4rem .1rem
+}
+.pageCurrent {
+	cursor:pointer;
+    padding: .4rem 1rem;    
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-weight: 700;
+    margin: .4rem .1rem;
+	background: green;
+	color:white;
+}
