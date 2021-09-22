@@ -30,20 +30,20 @@ It renders something like:
 
 ```html
 <ul class="index__pagination___sk_9O">
-    <button class="index__itemPagination___S-Ybn" disabled="">&lt;</button>
-    <button class="index__itemPagination___S-Ybn" disabled="">&lt;&lt;</button>
-    <button class="index__pageCurrent___-4MRX">1</button>
-    <button class="index__itemPagination___S-Ybn">2</button>
-    <button class="index__itemPagination___S-Ybn">3</button>
-    <button class="index__itemPagination___S-Ybn">4</button>
-    <button class="index__itemPagination___S-Ybn">5</button>
-    <button class="index__itemPagination___S-Ybn">6</button>
-    <button class="index__itemPagination___S-Ybn">7</button>
-    <button class="index__itemPagination___S-Ybn">8</button>
-    <button class="index__itemPagination___S-Ybn">9</button>
-    <button class="index__itemPagination___S-Ybn">10</button>
-    <button class="index__itemPagination___S-Ybn">&gt;&gt;</button>
-    <button class="index__itemPagination___S-Ybn">&gt;</button>
+	<button class="index__itemPagination___S-Ybn" disabled="">&lt;</button>
+	<button class="index__itemPagination___S-Ybn" disabled="">&lt;&lt;</button>
+	<button class="index__pageCurrent___-4MRX">1</button>
+	<button class="index__itemPagination___S-Ybn">2</button>
+	<button class="index__itemPagination___S-Ybn">3</button>
+	<button class="index__itemPagination___S-Ybn">4</button>
+	<button class="index__itemPagination___S-Ybn">5</button>
+	<button class="index__itemPagination___S-Ybn">6</button>
+	<button class="index__itemPagination___S-Ybn">7</button>
+	<button class="index__itemPagination___S-Ybn">8</button>
+	<button class="index__itemPagination___S-Ybn">9</button>
+	<button class="index__itemPagination___S-Ybn">10</button>
+	<button class="index__itemPagination___S-Ybn">&gt;&gt;</button>
+	<button class="index__itemPagination___S-Ybn">&gt;</button>
 </ul>
 ```
 [See example using redux and API of Giphy](https://github.com/vickvasquez/practices-redux/blob/master/app-ghipy/src/containers/index.js/)
